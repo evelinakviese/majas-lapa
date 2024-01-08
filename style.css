@@ -1,0 +1,39 @@
+*{
+          margin: 0;
+         box-sizing: border-box;
+}
+body{
+          background-color: beige;
+          width: 100vw;
+          height: 100vh;
+}
+.logo{
+         background-color: darkslategrey;
+         height: 100px;
+         border: 2px solid black;
+}
+
+.bigbox1{
+          background-image: url(https://www.pinterest.com/pin/750904937888099796/);
+          background-size: 100%;
+          border: 2px solid black;
+          height: 1000px;
+          display: flex;
+          margin: 2px;
+          align-items: center;
+         justify-content: center;
+         gap: 600px;
+
+}
+.imgbox{
+  background-color: antiquewhite;  
+  height: 100px;     
+  width: 400px;
+
+}
+
+.loginbox{
+          background-color: darkslategrey;
+          height: 100px;
+          width: 500px;
+}
