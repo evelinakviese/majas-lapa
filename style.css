@@ -14,8 +14,8 @@ body{
 }
 
 .bigbox1{
-          background-image: url(https://www.pinterest.com/pin/750904937888099796/);
-          background-size: 100%;
+          background-color: rgb(171, 69, 57);
+          background-size: 80%;
           border: 2px solid black;
           height: 1000px;
           display: flex;
@@ -26,14 +26,17 @@ body{
 
 }
 .imgbox{
-  background-color: antiquewhite;  
-  height: 100px;     
+  
+  height: 300px;     
   width: 400px;
 
 }
 
 .loginbox{
-          background-color: darkslategrey;
+        background-color: rgb(212, 154, 134);
           height: 100px;
           width: 500px;
+         text-align: center;
+       font-family: cursive;
+
 }
